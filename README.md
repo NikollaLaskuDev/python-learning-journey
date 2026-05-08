@@ -25,6 +25,10 @@ A simple command-line calculator built while learning Python basics.
 - `try`/`except` for exception handling (`ValueError`, `ZeroDivisionError`)
 - Type conversion (`int()`)
 - User input with `input()`
+- `logging` module with multiple levels (debug, info, warning, error)
+- f-strings for cleaner string formatting
+- Logging to file with `basicConfig(filename=...)`
+- `.gitignore` to exclude generated log files from version control
 
 ## Learning Stack
 
