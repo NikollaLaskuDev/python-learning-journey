@@ -18,6 +18,10 @@ A simple command-line calculator built while learning Python basics.
 - Quit option ('q')
 - Exception handling (invalid numbers, division by zero)
 - Input validation for operators
+**Version 3.0 (17th may 2026):**
+- Square root calculation ('r)
+- Percentage calculation ('%' operator: x% of y)
+- Memory sotre ('ms') and recall ('mr')
 
 **Concepts practiced:**
 - `while` loops with `break`
